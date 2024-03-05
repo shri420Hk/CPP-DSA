@@ -18,5 +18,5 @@ void pairSum(int arr[], int size){
 int main(){
     int arr[6]={1, 2, 3, 4, 5, 6};
     cout<<"Sum of the pair elements present in the array: ";
-    pairSum(arr, 5);
+    pairSum(arr, 6);
 }
